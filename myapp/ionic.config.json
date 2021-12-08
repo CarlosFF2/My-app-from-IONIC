@@ -1,0 +1,7 @@
+{
+  "name": "mysecondapp-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
